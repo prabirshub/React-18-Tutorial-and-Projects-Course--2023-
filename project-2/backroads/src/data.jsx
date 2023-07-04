@@ -100,7 +100,7 @@ export const tours = [
     image: tour4,
     date: 'december 5th, 2019',
     title: 'kenya highlights',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    info: 'Lorem dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'kenya',
     duration: 20,
     cost: 3300,
